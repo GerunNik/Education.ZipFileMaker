@@ -1,0 +1,10 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\bin\Debug\ZipFileMaker.exe.config
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\bin\Debug\ZipFileMaker.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\bin\Debug\ZipFileMaker.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\obj\Debug\ZipFileMaker.csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\obj\Debug\ZipFileMaker.Form1.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\obj\Debug\ZipFileMaker.Properties.Resources.resources
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\obj\Debug\ZipFileMaker.csproj.GenerateResource.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\obj\Debug\ZipFileMaker.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\obj\Debug\ZipFileMaker.exe
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\ZipFileMaker\ZipFileMaker\obj\Debug\ZipFileMaker.pdb
